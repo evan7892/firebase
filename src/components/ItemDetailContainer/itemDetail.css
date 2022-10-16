@@ -1,0 +1,9 @@
+a{
+    color: black;
+}
+
+a:hover{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+}
